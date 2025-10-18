@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+.env
+
+# Node
+node_modules/
+build/
+dist/
+.npm/
+yarn.lock
+npm-debug.log*
+
+# Env ve config dosyaları
+.env
+*.env.*
+
+# Editor/IDE
+/.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.code-workspace
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
+
+# MacOS/Linux
+.DS_Store
+Thumbs.db
+
+# Loglar
+logs/
+*.log
+
+# Frontend build output
+frontend/build/
+frontend/dist/
+
+# Backend output
+db.sqlite3
+*.db
+
+# Test çıktıları
+coverage/
+htmlcov/
+.pytest_cache/
+
+# Backup dosyaları
+*~
+*.bak
+*.tmp
+
+# Diğer gereksizler
+*.cache
+*.orig
+.sass-cache/
+.cache/

@@ -1,6 +1,31 @@
-## ✨ Alchemize: Kariyerin Yapay Zeka ile Dönüşümü
+# Alchemize Kairu Bootcamp - Monorepo Mimarisi
 
-Bu proje, iş arama sürecini devrim niteliğinde değiştiren, yapay zeka destekli çok fonksiyonlu bir kariyer yönetim platformu olan **Alchemize**'dır. Alchemize, adayların kariyer potansiyelini maksimize etme misyonuyla, profesyonel CV oluşturma, kariyer hedeflerini planlama ve iş ilanlarına özel başvuru dokümanları hazırlama zorluklarına akıllı çözümler sunar.
+Bu proje, modüler ve sağlam bir mimari ile tasarlanmış CV ve GitHub proje yönetim sistemidir. Web scraping'in getirdiği zorlukları (proxy yönetimi, IP engellemeleri vb.) karşılamak üzere tasarlanmış, "sorumlulukların ayrılması" ilkesini temel alan tam mimari yapıdır.
+
+## Mimari Yapı
+
+### Backend (FastAPI)
+- **API Katmanı**: HTTP endpoint'leri (`/backend/app/api/`)
+- **Servis Katmanı**: İş mantığı ve adaptörler (`/backend/app/services/`)
+- **Scraper Engine**: Web scraping motoru (`/backend/app/services/scraper_engine/`)
+- **Veritabanı**: SQLAlchemy modelleri ve CRUD işlemleri
+
+### Frontend (React)
+- **Bileşenler**: UI bileşenleri (`/frontend/src/components/`)
+- **Sayfalar**: Route sayfaları (`/frontend/src/pages/`)
+- **Servisler**: API iletişim katmanı (`/frontend/src/services/`)
+
+### Docker
+- **docker-compose.yml**: 3 servis (frontend, backend, db)
+- **Dockerfile**: Her servis için container tanımları
+
+## Özellikler
+
+- GitHub repo import sistemi
+- Proxy yönetimi ve IP engelleme koruması
+- CV oluşturma ve yönetimi
+- AI destekli analiz (Hugging Face)
+- Modüler ve genişletilebilir mimari
 
 ### 👥 Takım ve Mentör
 
