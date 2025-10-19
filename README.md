@@ -34,7 +34,7 @@ Bu proje, modüler ve sağlam bir mimari ile tasarlanmış CV ve GitHub proje y�
 | **Backend Developer** | Ahmet Koca |
 | **Frontend Developer** | Edanur Özkan |
 | **Deep Learning Engineer** | Yeliz İrfan |
-| **Machine Learning Engineer** | Fatima Sadıxova |
+| **Machine Learning Engineer** | Fatimə Sadıxova |
 | **Mentör** | Mustafa Kocaman |
 
 ### 🌟 Temel Özellikler
