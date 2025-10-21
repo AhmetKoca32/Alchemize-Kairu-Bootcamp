@@ -1,0 +1,8 @@
+# Minimal requirements for GitHub demo script
+# Sadece GitHub API demo için gerekli paketler
+
+# GitHub API
+PyGithub==1.59.1
+
+# Utilities
+python-dotenv==1.0.0
