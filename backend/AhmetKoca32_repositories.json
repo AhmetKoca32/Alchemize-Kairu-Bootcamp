@@ -1,6 +1,6 @@
 {
   "user": "AhmetKoca32",
-  "fetched_at": "2025-10-21T17:56:53.650060",
+  "fetched_at": "2025-10-21T20:36:59.927245",
   "repositories": [
     {
       "name": "Alchemize-Kairu-Bootcamp",
@@ -9,12 +9,28 @@
       "language": "Python",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2025-10-19 17:34:55",
+      "updated_at": "2025-10-21 17:24:46",
       "created_at": "2025-10-15",
       "html_url": "https://github.com/AhmetKoca32/Alchemize-Kairu-Bootcamp",
       "clone_url": "https://github.com/AhmetKoca32/Alchemize-Kairu-Bootcamp.git",
       "size": 15,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 8662,
+          "JavaScript": 701,
+          "Dockerfile": 157,
+          "HTML": 74
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "pygithub": true,
+          "python-dotenv": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "AhmetKoca32",
@@ -31,7 +47,18 @@
       "topics": [
         "config",
         "github-config"
-      ]
+      ],
+      "tech_stack": {
+        "languages": {},
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": [
+          "config",
+          "github-config"
+        ]
+      }
     },
     {
       "name": "Haftalik_Beslenme_Asistani",
@@ -45,7 +72,19 @@
       "html_url": "https://github.com/AhmetKoca32/Haftalik_Beslenme_Asistani",
       "clone_url": "https://github.com/AhmetKoca32/Haftalik_Beslenme_Asistani.git",
       "size": 15,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "JavaScript": 31654,
+          "CSS": 12391,
+          "HTML": 11637
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "AI-180",
@@ -59,7 +98,26 @@
       "html_url": "https://github.com/AhmetKoca32/AI-180",
       "clone_url": "https://github.com/AhmetKoca32/AI-180.git",
       "size": 4900,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Dart": 536284,
+          "Python": 56573,
+          "C++": 24740,
+          "CMake": 19802,
+          "Swift": 2307,
+          "C": 1425,
+          "HTML": 1224,
+          "Dockerfile": 204,
+          "Kotlin": 127,
+          "Objective-C": 38
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "PersonalWebsite-CV-",
@@ -73,7 +131,20 @@
       "html_url": "https://github.com/AhmetKoca32/PersonalWebsite-CV-",
       "clone_url": "https://github.com/AhmetKoca32/PersonalWebsite-CV-.git",
       "size": 5871,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "HTML": 53825,
+          "CSS": 31137,
+          "JavaScript": 5923,
+          "PHP": 1003
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Stayzi",
@@ -87,7 +158,32 @@
       "html_url": "https://github.com/AhmetKoca32/Stayzi",
       "clone_url": "https://github.com/AhmetKoca32/Stayzi.git",
       "size": 78578,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 49887732,
+          "Dart": 555235,
+          "C": 53752,
+          "Mako": 53178,
+          "Cython": 46888,
+          "C++": 25334,
+          "CMake": 20577,
+          "PowerShell": 10696,
+          "Shell": 7805,
+          "Nushell": 2791,
+          "Ruby": 2757,
+          "Swift": 2420,
+          "HTML": 1216,
+          "Dockerfile": 201,
+          "Kotlin": 123,
+          "Objective-C": 38
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "BtkAkademi-Hackathon-2025",
@@ -101,7 +197,27 @@
       "html_url": "https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025",
       "clone_url": "https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025.git",
       "size": 1354,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 279129,
+          "Dart": 238687,
+          "C++": 24103,
+          "CMake": 19732,
+          "Shell": 4108,
+          "Batchfile": 2974,
+          "Swift": 2170,
+          "C": 1425,
+          "HTML": 1222,
+          "Kotlin": 126,
+          "Objective-C": 38
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "data-structures-algorithms",
@@ -115,7 +231,28 @@
       "html_url": "https://github.com/AhmetKoca32/data-structures-algorithms",
       "clone_url": "https://github.com/AhmetKoca32/data-structures-algorithms.git",
       "size": 35,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 72214
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "pytest": true,
+          "pytest-cov": true,
+          "black": true,
+          "flake8": true,
+          "mypy": true,
+          "timeit": true,
+          "matplotlib": true,
+          "seaborn": true,
+          "jupyter": true,
+          "ipykernel": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Encoder-Decoder_Arthitecture",
@@ -129,7 +266,17 @@
       "html_url": "https://github.com/AhmetKoca32/Encoder-Decoder_Arthitecture",
       "clone_url": "https://github.com/AhmetKoca32/Encoder-Decoder_Arthitecture.git",
       "size": 175478,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Jupyter Notebook": 195372
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "asl-ml-immersion",
@@ -143,7 +290,67 @@
       "html_url": "https://github.com/AhmetKoca32/asl-ml-immersion",
       "clone_url": "https://github.com/AhmetKoca32/asl-ml-immersion.git",
       "size": 325476,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Jupyter Notebook": 46674987,
+          "Python": 237948,
+          "Shell": 10404,
+          "HTML": 4310,
+          "Dockerfile": 2717,
+          "Makefile": 2109,
+          "JavaScript": 1347
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "google-genai": true,
+          "google-api-core": true,
+          "google-cloud-storage": true,
+          "google-cloud-aiplatform": true,
+          "google-cloud-bigquery": true,
+          "cloudml-hypertune": true,
+          "apache-beam": true,
+          "tensorflow": true,
+          "tensorflow-io": true,
+          "tensorflow-hub": true,
+          "tensorflow-serving-api": true,
+          "tensorflow_text": true,
+          "tf-agents": true,
+          "tf-models-official": true,
+          "tensorflow-model-remediation": true,
+          "tensorflow-recommenders": true,
+          "keras_cv": true,
+          "keras_nlp": true,
+          "jax": true,
+          "kubernetes": true,
+          "kfp": true,
+          "google-cloud-pipeline-components": true,
+          "saliency": true,
+          "langchain": true,
+          "langsmith": true,
+          "langgraph": true,
+          "langchain-chroma": true,
+          "chroma-hnswlib": true,
+          "chromadb": true,
+          "langchain-community": true,
+          "langchain-core": true,
+          "langchain-google-vertexai": true,
+          "langchain-text-splitters": true,
+          "pyyaml": true,
+          "pydantic": true,
+          "pypdf": true,
+          "faiss-cpu": true,
+          "unstructured": true,
+          "unstructured-client": true,
+          "wikipedia": true,
+          "fire": true,
+          "pre-commit": true,
+          "pytest": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "EcoTale",
@@ -157,7 +364,27 @@
       "html_url": "https://github.com/AhmetKoca32/EcoTale",
       "clone_url": "https://github.com/AhmetKoca32/EcoTale.git",
       "size": 4806,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "JavaScript": 30218,
+          "HTML": 23942,
+          "CSS": 19378,
+          "Python": 14130
+        },
+        "frameworks": [
+          "Flask"
+        ],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "flask": true,
+          "google-cloud-texttospeech": true,
+          "google-generativeai": true,
+          "python-dotenv": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Deep-Live-Cam",
@@ -171,7 +398,39 @@
       "html_url": "https://github.com/AhmetKoca32/Deep-Live-Cam",
       "clone_url": "https://github.com/AhmetKoca32/Deep-Live-Cam.git",
       "size": 155766,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 105494,
+          "Batchfile": 79
+        },
+        "frameworks": [
+          "NumPy"
+        ],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "--extra-index-url https://download.pytorch.org/whl/cu118": true,
+          "numpy": true,
+          "typing-extensions": true,
+          "opencv-python": true,
+          "cv2_enumerate_cameras": true,
+          "onnx": true,
+          "insightface": true,
+          "psutil": true,
+          "tk": true,
+          "customtkinter": true,
+          "pillow": true,
+          "torch": true,
+          "torchvision": true,
+          "onnxruntime-silicon": true,
+          "onnxruntime-gpu": true,
+          "tensorflow; sys_platform != 'darwin'": true,
+          "opennsfw2": true,
+          "protobuf": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "backend-to-deployment",
@@ -185,7 +444,17 @@
       "html_url": "https://github.com/AhmetKoca32/backend-to-deployment",
       "clone_url": "https://github.com/AhmetKoca32/backend-to-deployment.git",
       "size": 23,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 10095
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "AhmetKoca32.github.io",
@@ -199,7 +468,23 @@
       "html_url": "https://github.com/AhmetKoca32/AhmetKoca32.github.io",
       "clone_url": "https://github.com/AhmetKoca32/AhmetKoca32.github.io.git",
       "size": 6321,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "JavaScript": 1645856,
+          "HTML": 1199
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "url_launcher": true,
+          "flutter": true,
+          "flutter_test": true,
+          "flutter_lints": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Veresiye-Defteri",
@@ -213,7 +498,34 @@
       "html_url": "https://github.com/AhmetKoca32/Veresiye-Defteri",
       "clone_url": "https://github.com/AhmetKoca32/Veresiye-Defteri.git",
       "size": 502,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Dart": 40907,
+          "C++": 25369,
+          "CMake": 20281,
+          "Swift": 2358,
+          "C": 1459,
+          "HTML": 1260,
+          "Kotlin": 131,
+          "Objective-C": 39
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "path_provider": true,
+          "google_fonts": true,
+          "flutter": true,
+          "cupertino_icons": true,
+          "firebase_core": true,
+          "firebase_auth": true,
+          "cloud_firestore": true,
+          "flutter_test": true,
+          "flutter_lints": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Odev1-Notlarim",
@@ -227,7 +539,15 @@
       "html_url": "https://github.com/AhmetKoca32/Odev1-Notlarim",
       "clone_url": "https://github.com/AhmetKoca32/Odev1-Notlarim.git",
       "size": 12,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {},
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Math-Division-Game",
@@ -241,7 +561,23 @@
       "html_url": "https://github.com/AhmetKoca32/Math-Division-Game",
       "clone_url": "https://github.com/AhmetKoca32/Math-Division-Game.git",
       "size": 72382,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "C#": 14962635,
+          "C++": 17765,
+          "GAP": 9254,
+          "Objective-C++": 8863,
+          "ShaderLab": 7667,
+          "HLSL": 7157,
+          "CMake": 426
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "GitHub-Profil-Ozellestirme2",
@@ -255,7 +591,15 @@
       "html_url": "https://github.com/AhmetKoca32/GitHub-Profil-Ozellestirme2",
       "clone_url": "https://github.com/AhmetKoca32/GitHub-Profil-Ozellestirme2.git",
       "size": 23,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {},
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Tower-Blocks-Game",
@@ -269,7 +613,21 @@
       "html_url": "https://github.com/AhmetKoca32/Tower-Blocks-Game",
       "clone_url": "https://github.com/AhmetKoca32/Tower-Blocks-Game.git",
       "size": 14,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "JavaScript": 14421,
+          "TypeScript": 12867,
+          "SCSS": 2276,
+          "CSS": 2186,
+          "HTML": 1180
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Sphere-Packing",
@@ -283,7 +641,19 @@
       "html_url": "https://github.com/AhmetKoca32/Sphere-Packing",
       "clone_url": "https://github.com/AhmetKoca32/Sphere-Packing.git",
       "size": 36,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "CSS": 1390,
+          "HTML": 719,
+          "JavaScript": 661
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Hospital-Appointment-System",
@@ -297,7 +667,20 @@
       "html_url": "https://github.com/AhmetKoca32/Hospital-Appointment-System",
       "clone_url": "https://github.com/AhmetKoca32/Hospital-Appointment-System.git",
       "size": 20,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "HTML": 19037,
+          "Java": 11232
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "spring-boot": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Android-Database",
@@ -311,7 +694,17 @@
       "html_url": "https://github.com/AhmetKoca32/Android-Database",
       "clone_url": "https://github.com/AhmetKoca32/Android-Database.git",
       "size": 4560,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Java": 9781
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Solution-Challenge-Project",
@@ -325,7 +718,28 @@
       "html_url": "https://github.com/AhmetKoca32/Solution-Challenge-Project",
       "clone_url": "https://github.com/AhmetKoca32/Solution-Challenge-Project.git",
       "size": 1587,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "C++": 23786,
+          "CMake": 19444,
+          "Dart": 5116,
+          "Swift": 1702,
+          "C": 1425,
+          "HTML": 1234,
+          "Kotlin": 128,
+          "Objective-C": 38
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "flutter": true,
+          "flutter_test": true,
+          "flutter_lints": true
+        },
+        "topics": []
+      }
     },
     {
       "name": "Web-Scraping",
@@ -339,7 +753,17 @@
       "html_url": "https://github.com/AhmetKoca32/Web-Scraping",
       "clone_url": "https://github.com/AhmetKoca32/Web-Scraping.git",
       "size": 1,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 3768
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "turkcekaynaklar-com",
@@ -353,7 +777,17 @@
       "html_url": "https://github.com/AhmetKoca32/turkcekaynaklar-com",
       "clone_url": "https://github.com/AhmetKoca32/turkcekaynaklar-com.git",
       "size": 476,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Shell": 869
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "PersonalPortfolio",
@@ -367,7 +801,19 @@
       "html_url": "https://github.com/AhmetKoca32/PersonalPortfolio",
       "clone_url": "https://github.com/AhmetKoca32/PersonalPortfolio.git",
       "size": 324,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "CSS": 5078,
+          "HTML": 2567,
+          "JavaScript": 296
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Kodluyoruz-python-uygulama-2",
@@ -381,7 +827,17 @@
       "html_url": "https://github.com/AhmetKoca32/Kodluyoruz-python-uygulama-2",
       "clone_url": "https://github.com/AhmetKoca32/Kodluyoruz-python-uygulama-2.git",
       "size": 2,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Python": 570
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "CalculatorApp-with-Java",
@@ -395,7 +851,17 @@
       "html_url": "https://github.com/AhmetKoca32/CalculatorApp-with-Java",
       "clone_url": "https://github.com/AhmetKoca32/CalculatorApp-with-Java.git",
       "size": 1,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Java": 4536
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "Library-Management-System",
@@ -409,7 +875,17 @@
       "html_url": "https://github.com/AhmetKoca32/Library-Management-System",
       "clone_url": "https://github.com/AhmetKoca32/Library-Management-System.git",
       "size": 9,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "Java": 12766
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {},
+        "topics": []
+      }
     },
     {
       "name": "To-Do-List-App",
@@ -423,7 +899,32 @@
       "html_url": "https://github.com/AhmetKoca32/To-Do-List-App",
       "clone_url": "https://github.com/AhmetKoca32/To-Do-List-App.git",
       "size": 724,
-      "topics": []
+      "topics": [],
+      "tech_stack": {
+        "languages": {
+          "C++": 23771,
+          "CMake": 19424,
+          "Dart": 9713,
+          "Swift": 1864,
+          "C": 1425,
+          "HTML": 1224,
+          "Kotlin": 123,
+          "Objective-C": 38
+        },
+        "frameworks": [],
+        "databases": [],
+        "devops": [],
+        "dependencies": {
+          "flutter": true,
+          "shared_preferences": true,
+          "intl": true,
+          "cupertino_icons": true,
+          "flutter_test": true,
+          "flutter_launcher_icons": true,
+          "flutter_lints": true
+        },
+        "topics": []
+      }
     }
   ],
   "analysis": {
@@ -445,5 +946,987 @@
     "most_used_language": "Python",
     "most_starred_repo": "AhmetKoca32/EcoTale",
     "most_starred_count": 2
+  },
+  "job_matching": {
+    "requirements": [
+      "python",
+      "fastapi",
+      "postgresql",
+      "docker",
+      "flutter"
+    ],
+    "matching_repos": [
+      {
+        "repo": {
+          "name": "Alchemize-Kairu-Bootcamp",
+          "full_name": "AhmetKoca32/Alchemize-Kairu-Bootcamp",
+          "description": "Yapay Zeka destekli kariyer asistanı. Dinamik CV, kişiselleştirilmiş kariyer yol haritası ve iş başvurusu optimizasyonu sunar.",
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-10-21 17:24:46",
+          "created_at": "2025-10-15",
+          "html_url": "https://github.com/AhmetKoca32/Alchemize-Kairu-Bootcamp",
+          "clone_url": "https://github.com/AhmetKoca32/Alchemize-Kairu-Bootcamp.git",
+          "size": 15,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 8662,
+              "JavaScript": 701,
+              "Dockerfile": 157,
+              "HTML": 74
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "pygithub": true,
+              "python-dotenv": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 7,
+        "matched_technologies": [
+          "Language: Python",
+          "Dependency: python-dotenv",
+          "Language: Dockerfile"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 8662,
+            "JavaScript": 701,
+            "Dockerfile": 157,
+            "HTML": 74
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "pygithub": true,
+            "python-dotenv": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "AI-180",
+          "full_name": "AhmetKoca32/AI-180",
+          "description": "This repository contains the source code for the DermaScope mobile application, developed during the Artificial Intelligence and Technology Academy Bootcamp. DermaScope is a mobile health technology solution that offers AI-powered preliminary diagnosis, personalized care recommendations, and health tracking by analyzing users' skin and hair images.",
+          "language": "Dart",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-10-08 07:55:10",
+          "created_at": "2025-06-29",
+          "html_url": "https://github.com/AhmetKoca32/AI-180",
+          "clone_url": "https://github.com/AhmetKoca32/AI-180.git",
+          "size": 4900,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Dart": 536284,
+              "Python": 56573,
+              "C++": 24740,
+              "CMake": 19802,
+              "Swift": 2307,
+              "C": 1425,
+              "HTML": 1224,
+              "Dockerfile": 204,
+              "Kotlin": 127,
+              "Objective-C": 38
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 6,
+        "matched_technologies": [
+          "Language: Python",
+          "Language: Dockerfile"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Dart": 536284,
+            "Python": 56573,
+            "C++": 24740,
+            "CMake": 19802,
+            "Swift": 2307,
+            "C": 1425,
+            "HTML": 1224,
+            "Dockerfile": 204,
+            "Kotlin": 127,
+            "Objective-C": 38
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Stayzi",
+          "full_name": "AhmetKoca32/Stayzi",
+          "description": null,
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 3,
+          "updated_at": "2025-08-10 22:26:51",
+          "created_at": "2025-03-12",
+          "html_url": "https://github.com/AhmetKoca32/Stayzi",
+          "clone_url": "https://github.com/AhmetKoca32/Stayzi.git",
+          "size": 78578,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 49887732,
+              "Dart": 555235,
+              "C": 53752,
+              "Mako": 53178,
+              "Cython": 46888,
+              "C++": 25334,
+              "CMake": 20577,
+              "PowerShell": 10696,
+              "Shell": 7805,
+              "Nushell": 2791,
+              "Ruby": 2757,
+              "Swift": 2420,
+              "HTML": 1216,
+              "Dockerfile": 201,
+              "Kotlin": 123,
+              "Objective-C": 38
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 6,
+        "matched_technologies": [
+          "Language: Python",
+          "Language: Dockerfile"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 49887732,
+            "Dart": 555235,
+            "C": 53752,
+            "Mako": 53178,
+            "Cython": 46888,
+            "C++": 25334,
+            "CMake": 20577,
+            "PowerShell": 10696,
+            "Shell": 7805,
+            "Nushell": 2791,
+            "Ruby": 2757,
+            "Swift": 2420,
+            "HTML": 1216,
+            "Dockerfile": 201,
+            "Kotlin": 123,
+            "Objective-C": 38
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "asl-ml-immersion",
+          "full_name": "AhmetKoca32/asl-ml-immersion",
+          "description": "This repos contains notebooks for the Advanced Solutions Lab: ML Immersion",
+          "language": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-05-20 22:39:46",
+          "created_at": "2025-05-20",
+          "html_url": "https://github.com/AhmetKoca32/asl-ml-immersion",
+          "clone_url": "https://github.com/AhmetKoca32/asl-ml-immersion.git",
+          "size": 325476,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Jupyter Notebook": 46674987,
+              "Python": 237948,
+              "Shell": 10404,
+              "HTML": 4310,
+              "Dockerfile": 2717,
+              "Makefile": 2109,
+              "JavaScript": 1347
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "google-genai": true,
+              "google-api-core": true,
+              "google-cloud-storage": true,
+              "google-cloud-aiplatform": true,
+              "google-cloud-bigquery": true,
+              "cloudml-hypertune": true,
+              "apache-beam": true,
+              "tensorflow": true,
+              "tensorflow-io": true,
+              "tensorflow-hub": true,
+              "tensorflow-serving-api": true,
+              "tensorflow_text": true,
+              "tf-agents": true,
+              "tf-models-official": true,
+              "tensorflow-model-remediation": true,
+              "tensorflow-recommenders": true,
+              "keras_cv": true,
+              "keras_nlp": true,
+              "jax": true,
+              "kubernetes": true,
+              "kfp": true,
+              "google-cloud-pipeline-components": true,
+              "saliency": true,
+              "langchain": true,
+              "langsmith": true,
+              "langgraph": true,
+              "langchain-chroma": true,
+              "chroma-hnswlib": true,
+              "chromadb": true,
+              "langchain-community": true,
+              "langchain-core": true,
+              "langchain-google-vertexai": true,
+              "langchain-text-splitters": true,
+              "pyyaml": true,
+              "pydantic": true,
+              "pypdf": true,
+              "faiss-cpu": true,
+              "unstructured": true,
+              "unstructured-client": true,
+              "wikipedia": true,
+              "fire": true,
+              "pre-commit": true,
+              "pytest": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 6,
+        "matched_technologies": [
+          "Language: Python",
+          "Language: Dockerfile"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Jupyter Notebook": 46674987,
+            "Python": 237948,
+            "Shell": 10404,
+            "HTML": 4310,
+            "Dockerfile": 2717,
+            "Makefile": 2109,
+            "JavaScript": 1347
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "google-genai": true,
+            "google-api-core": true,
+            "google-cloud-storage": true,
+            "google-cloud-aiplatform": true,
+            "google-cloud-bigquery": true,
+            "cloudml-hypertune": true,
+            "apache-beam": true,
+            "tensorflow": true,
+            "tensorflow-io": true,
+            "tensorflow-hub": true,
+            "tensorflow-serving-api": true,
+            "tensorflow_text": true,
+            "tf-agents": true,
+            "tf-models-official": true,
+            "tensorflow-model-remediation": true,
+            "tensorflow-recommenders": true,
+            "keras_cv": true,
+            "keras_nlp": true,
+            "jax": true,
+            "kubernetes": true,
+            "kfp": true,
+            "google-cloud-pipeline-components": true,
+            "saliency": true,
+            "langchain": true,
+            "langsmith": true,
+            "langgraph": true,
+            "langchain-chroma": true,
+            "chroma-hnswlib": true,
+            "chromadb": true,
+            "langchain-community": true,
+            "langchain-core": true,
+            "langchain-google-vertexai": true,
+            "langchain-text-splitters": true,
+            "pyyaml": true,
+            "pydantic": true,
+            "pypdf": true,
+            "faiss-cpu": true,
+            "unstructured": true,
+            "unstructured-client": true,
+            "wikipedia": true,
+            "fire": true,
+            "pre-commit": true,
+            "pytest": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "EcoTale",
+          "full_name": "AhmetKoca32/EcoTale",
+          "description": null,
+          "language": "JavaScript",
+          "stargazers_count": 2,
+          "forks_count": 1,
+          "updated_at": "2025-05-06 17:49:17",
+          "created_at": "2025-05-03",
+          "html_url": "https://github.com/AhmetKoca32/EcoTale",
+          "clone_url": "https://github.com/AhmetKoca32/EcoTale.git",
+          "size": 4806,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "JavaScript": 30218,
+              "HTML": 23942,
+              "CSS": 19378,
+              "Python": 14130
+            },
+            "frameworks": [
+              "Flask"
+            ],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "flask": true,
+              "google-cloud-texttospeech": true,
+              "google-generativeai": true,
+              "python-dotenv": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 4,
+        "matched_technologies": [
+          "Language: Python",
+          "Dependency: python-dotenv"
+        ],
+        "tech_stack": {
+          "languages": {
+            "JavaScript": 30218,
+            "HTML": 23942,
+            "CSS": 19378,
+            "Python": 14130
+          },
+          "frameworks": [
+            "Flask"
+          ],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "flask": true,
+            "google-cloud-texttospeech": true,
+            "google-generativeai": true,
+            "python-dotenv": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Deep-Live-Cam",
+          "full_name": "AhmetKoca32/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-05-05 01:42:06",
+          "created_at": "2025-05-05",
+          "html_url": "https://github.com/AhmetKoca32/Deep-Live-Cam",
+          "clone_url": "https://github.com/AhmetKoca32/Deep-Live-Cam.git",
+          "size": 155766,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 105494,
+              "Batchfile": 79
+            },
+            "frameworks": [
+              "NumPy"
+            ],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "--extra-index-url https://download.pytorch.org/whl/cu118": true,
+              "numpy": true,
+              "typing-extensions": true,
+              "opencv-python": true,
+              "cv2_enumerate_cameras": true,
+              "onnx": true,
+              "insightface": true,
+              "psutil": true,
+              "tk": true,
+              "customtkinter": true,
+              "pillow": true,
+              "torch": true,
+              "torchvision": true,
+              "onnxruntime-silicon": true,
+              "onnxruntime-gpu": true,
+              "tensorflow; sys_platform != 'darwin'": true,
+              "opennsfw2": true,
+              "protobuf": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 4,
+        "matched_technologies": [
+          "Language: Python",
+          "Dependency: opencv-python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 105494,
+            "Batchfile": 79
+          },
+          "frameworks": [
+            "NumPy"
+          ],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "--extra-index-url https://download.pytorch.org/whl/cu118": true,
+            "numpy": true,
+            "typing-extensions": true,
+            "opencv-python": true,
+            "cv2_enumerate_cameras": true,
+            "onnx": true,
+            "insightface": true,
+            "psutil": true,
+            "tk": true,
+            "customtkinter": true,
+            "pillow": true,
+            "torch": true,
+            "torchvision": true,
+            "onnxruntime-silicon": true,
+            "onnxruntime-gpu": true,
+            "tensorflow; sys_platform != 'darwin'": true,
+            "opennsfw2": true,
+            "protobuf": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "BtkAkademi-Hackathon-2025",
+          "full_name": "AhmetKoca32/BtkAkademi-Hackathon-2025",
+          "description": "AI Tabanlı Ürün Asistanı Yapay zeka destekli bu sistem, e-ticaret kaynaklarından ürünleri analiz eder, kullanıcı sorularına anlamlı yanıtlar üretir ve LangGraph mimarisiyle hafızalı bir deneyim sunar. API entegrasyonları ve MCP ile özelleştirilmiş hafıza yönetimi sayesinde hem ölçeklenebilir hem de kişiselleştirilmiş bir çözüm sunar.",
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-08-06 20:20:31",
+          "created_at": "2025-07-27",
+          "html_url": "https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025",
+          "clone_url": "https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025.git",
+          "size": 1354,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 279129,
+              "Dart": 238687,
+              "C++": 24103,
+              "CMake": 19732,
+              "Shell": 4108,
+              "Batchfile": 2974,
+              "Swift": 2170,
+              "C": 1425,
+              "HTML": 1222,
+              "Kotlin": 126,
+              "Objective-C": 38
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 3,
+        "matched_technologies": [
+          "Language: Python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 279129,
+            "Dart": 238687,
+            "C++": 24103,
+            "CMake": 19732,
+            "Shell": 4108,
+            "Batchfile": 2974,
+            "Swift": 2170,
+            "C": 1425,
+            "HTML": 1222,
+            "Kotlin": 126,
+            "Objective-C": 38
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "data-structures-algorithms",
+          "full_name": "AhmetKoca32/data-structures-algorithms",
+          "description": "Examples and implementations of data structures and algorithms using Python.",
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-07-16 23:27:46",
+          "created_at": "2025-07-16",
+          "html_url": "https://github.com/AhmetKoca32/data-structures-algorithms",
+          "clone_url": "https://github.com/AhmetKoca32/data-structures-algorithms.git",
+          "size": 35,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 72214
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "pytest": true,
+              "pytest-cov": true,
+              "black": true,
+              "flake8": true,
+              "mypy": true,
+              "timeit": true,
+              "matplotlib": true,
+              "seaborn": true,
+              "jupyter": true,
+              "ipykernel": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 3,
+        "matched_technologies": [
+          "Language: Python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 72214
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "pytest": true,
+            "pytest-cov": true,
+            "black": true,
+            "flake8": true,
+            "mypy": true,
+            "timeit": true,
+            "matplotlib": true,
+            "seaborn": true,
+            "jupyter": true,
+            "ipykernel": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "backend-to-deployment",
+          "full_name": "AhmetKoca32/backend-to-deployment",
+          "description": "This repository covers backend development with FastAPI, including API creation, async programming, Pydantic validation, CRUD operations, JWT authentication, and deployment with Docker and Google Cloud.",
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-05-02 01:07:18",
+          "created_at": "2025-03-10",
+          "html_url": "https://github.com/AhmetKoca32/backend-to-deployment",
+          "clone_url": "https://github.com/AhmetKoca32/backend-to-deployment.git",
+          "size": 23,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 10095
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 3,
+        "matched_technologies": [
+          "Language: Python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 10095
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Web-Scraping",
+          "full_name": "AhmetKoca32/Web-Scraping",
+          "description": "This bot is designed to scrape employee information from LinkedIn for the specified company.",
+          "language": "Python",
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "updated_at": "2024-10-18 14:03:02",
+          "created_at": "2024-10-13",
+          "html_url": "https://github.com/AhmetKoca32/Web-Scraping",
+          "clone_url": "https://github.com/AhmetKoca32/Web-Scraping.git",
+          "size": 1,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 3768
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 3,
+        "matched_technologies": [
+          "Language: Python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 3768
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Kodluyoruz-python-uygulama-2",
+          "full_name": "AhmetKoca32/Kodluyoruz-python-uygulama-2",
+          "description": "This Python project calculates the Euclidean distance between 2D points. It takes a list of points (tuples), computes the distance between each pair, and finds the minimum distance. The \"euclideanDistance()\" function calculates the distance, and the program outputs the smallest distance between any two points.",
+          "language": "Python",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2024-09-06 20:01:02",
+          "created_at": "2024-09-06",
+          "html_url": "https://github.com/AhmetKoca32/Kodluyoruz-python-uygulama-2",
+          "clone_url": "https://github.com/AhmetKoca32/Kodluyoruz-python-uygulama-2.git",
+          "size": 2,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Python": 570
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {},
+            "topics": []
+          }
+        },
+        "match_score": 3,
+        "matched_technologies": [
+          "Language: Python"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Python": 570
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {},
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "AhmetKoca32.github.io",
+          "full_name": "AhmetKoca32/AhmetKoca32.github.io",
+          "description": "Flutter ile personal portfolio projesi",
+          "language": "JavaScript",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-04-10 10:59:07",
+          "created_at": "2025-04-10",
+          "html_url": "https://github.com/AhmetKoca32/AhmetKoca32.github.io",
+          "clone_url": "https://github.com/AhmetKoca32/AhmetKoca32.github.io.git",
+          "size": 6321,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "JavaScript": 1645856,
+              "HTML": 1199
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "url_launcher": true,
+              "flutter": true,
+              "flutter_test": true,
+              "flutter_lints": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 1,
+        "matched_technologies": [
+          "Dependency: flutter"
+        ],
+        "tech_stack": {
+          "languages": {
+            "JavaScript": 1645856,
+            "HTML": 1199
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "url_launcher": true,
+            "flutter": true,
+            "flutter_test": true,
+            "flutter_lints": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Veresiye-Defteri",
+          "full_name": "AhmetKoca32/Veresiye-Defteri",
+          "description": "The Credit Ledger App is a simple and efficient tool for managing personal credit records. Built with Flutter, it runs on both Windows and Android, allowing seamless access across devices. With Firebase integration, data is securely stored and synchronized for reliability.",
+          "language": "Dart",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "updated_at": "2025-04-08 22:09:32",
+          "created_at": "2025-03-05",
+          "html_url": "https://github.com/AhmetKoca32/Veresiye-Defteri",
+          "clone_url": "https://github.com/AhmetKoca32/Veresiye-Defteri.git",
+          "size": 502,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "Dart": 40907,
+              "C++": 25369,
+              "CMake": 20281,
+              "Swift": 2358,
+              "C": 1459,
+              "HTML": 1260,
+              "Kotlin": 131,
+              "Objective-C": 39
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "path_provider": true,
+              "google_fonts": true,
+              "flutter": true,
+              "cupertino_icons": true,
+              "firebase_core": true,
+              "firebase_auth": true,
+              "cloud_firestore": true,
+              "flutter_test": true,
+              "flutter_lints": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 1,
+        "matched_technologies": [
+          "Dependency: flutter"
+        ],
+        "tech_stack": {
+          "languages": {
+            "Dart": 40907,
+            "C++": 25369,
+            "CMake": 20281,
+            "Swift": 2358,
+            "C": 1459,
+            "HTML": 1260,
+            "Kotlin": 131,
+            "Objective-C": 39
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "path_provider": true,
+            "google_fonts": true,
+            "flutter": true,
+            "cupertino_icons": true,
+            "firebase_core": true,
+            "firebase_auth": true,
+            "cloud_firestore": true,
+            "flutter_test": true,
+            "flutter_lints": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "Solution-Challenge-Project",
+          "full_name": "AhmetKoca32/Solution-Challenge-Project",
+          "description": null,
+          "language": "C++",
+          "stargazers_count": 0,
+          "forks_count": 1,
+          "updated_at": "2024-10-22 19:02:57",
+          "created_at": "2024-10-18",
+          "html_url": "https://github.com/AhmetKoca32/Solution-Challenge-Project",
+          "clone_url": "https://github.com/AhmetKoca32/Solution-Challenge-Project.git",
+          "size": 1587,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "C++": 23786,
+              "CMake": 19444,
+              "Dart": 5116,
+              "Swift": 1702,
+              "C": 1425,
+              "HTML": 1234,
+              "Kotlin": 128,
+              "Objective-C": 38
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "flutter": true,
+              "flutter_test": true,
+              "flutter_lints": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 1,
+        "matched_technologies": [
+          "Dependency: flutter"
+        ],
+        "tech_stack": {
+          "languages": {
+            "C++": 23786,
+            "CMake": 19444,
+            "Dart": 5116,
+            "Swift": 1702,
+            "C": 1425,
+            "HTML": 1234,
+            "Kotlin": 128,
+            "Objective-C": 38
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "flutter": true,
+            "flutter_test": true,
+            "flutter_lints": true
+          },
+          "topics": []
+        }
+      },
+      {
+        "repo": {
+          "name": "To-Do-List-App",
+          "full_name": "AhmetKoca32/To-Do-List-App",
+          "description": "To-Do List App : This Flutter-based app helps users track their daily tasks. It offers features for adding, editing, deleting, and completing tasks. Compatible with both Android and iOS devices, it has a user-friendly interface.",
+          "language": "C++",
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "updated_at": "2024-07-29 11:40:39",
+          "created_at": "2024-07-22",
+          "html_url": "https://github.com/AhmetKoca32/To-Do-List-App",
+          "clone_url": "https://github.com/AhmetKoca32/To-Do-List-App.git",
+          "size": 724,
+          "topics": [],
+          "tech_stack": {
+            "languages": {
+              "C++": 23771,
+              "CMake": 19424,
+              "Dart": 9713,
+              "Swift": 1864,
+              "C": 1425,
+              "HTML": 1224,
+              "Kotlin": 123,
+              "Objective-C": 38
+            },
+            "frameworks": [],
+            "databases": [],
+            "devops": [],
+            "dependencies": {
+              "flutter": true,
+              "shared_preferences": true,
+              "intl": true,
+              "cupertino_icons": true,
+              "flutter_test": true,
+              "flutter_launcher_icons": true,
+              "flutter_lints": true
+            },
+            "topics": []
+          }
+        },
+        "match_score": 1,
+        "matched_technologies": [
+          "Dependency: flutter"
+        ],
+        "tech_stack": {
+          "languages": {
+            "C++": 23771,
+            "CMake": 19424,
+            "Dart": 9713,
+            "Swift": 1864,
+            "C": 1425,
+            "HTML": 1224,
+            "Kotlin": 123,
+            "Objective-C": 38
+          },
+          "frameworks": [],
+          "databases": [],
+          "devops": [],
+          "dependencies": {
+            "flutter": true,
+            "shared_preferences": true,
+            "intl": true,
+            "cupertino_icons": true,
+            "flutter_test": true,
+            "flutter_launcher_icons": true,
+            "flutter_lints": true
+          },
+          "topics": []
+        }
+      }
+    ]
   }
 }
