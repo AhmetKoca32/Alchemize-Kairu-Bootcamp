@@ -16,14 +16,14 @@ const Dashboard = () => {
             <p className="text-indigo-100 text-lg">Kariyer yolculuğunuzda son durumunuzu ve yeni fırsatları keşfedin.</p>
           </div>
           <div className="flex space-x-4">
-            <Link 
-              to="/job-matches" 
+            <Link
+              to="/job-matches"
               className="bg-white text-indigo-700 px-6 py-3 rounded-full font-semibold hover:bg-indigo-100 transition duration-300 flex items-center"
             >
               <BriefcaseIcon className="w-5 h-5 mr-2" /> Yeni İş İlanı Analizi Yap
             </Link>
-            <Link 
-              to="/cv" 
+            <Link
+              to="/cv"
               className="bg-indigo-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-indigo-600 transition duration-300 flex items-center"
             >
               <ArrowRightIcon className="w-5 h-5 mr-2" /> CV'mi Güncelle
